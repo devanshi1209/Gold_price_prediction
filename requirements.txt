@@ -16,4 +16,7 @@ six==1.17.0
 tzdata==2025.1
 scikit-learn==1.6.1
 pickle-mixin==1.0.2
-json5==0.9.6
+json5==0.10.0
+matplotlib==3.10.1
+seaborn ==0.13.2
+mplfinance==0.12.10b0
